@@ -15,5 +15,5 @@ minetest.register_craftitem("ores:tin_lump", {
 })
 minetest.register_craftitem("ores:iron_lump", {
     description = "Iron Lump",
-    inventory_image = ""
+    inventory_image = "iron_lump.png"
 })
